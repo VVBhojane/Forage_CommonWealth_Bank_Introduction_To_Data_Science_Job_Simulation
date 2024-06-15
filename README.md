@@ -19,6 +19,7 @@ Across all payment methods, how much money was spent at the Bakershire store loc
 ****Task 2: Data Anonymsation: -****
 
 **Tasks Assigned: - **
+
 We need you to anonymise this data to hide personal details while preserving any useful information for the data scientists at InsightSpark.
 
 Here are some examples of how you may anonymise a data set:
