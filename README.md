@@ -18,7 +18,7 @@ Across all payment methods, how much money was spent at the Bakershire store loc
 
 ****Task 2: Data Anonymsation: -****
 
-**Tasks Assigned: - **
+**Tasks Assigned: -**
 
 We need you to anonymise this data to hide personal details while preserving any useful information for the data scientists at InsightSpark.
 
@@ -34,7 +34,7 @@ You could categorise personal figures (e.g., age and income) into a bracket rath
 
 ****Task 3: Propose Data Analysis Approaches: -****
 
-**Tasks Assigned: - **
+**Tasks Assigned: -**
 
 Start by familiarising yourself with the “@CommBank Twitter Account” to see what information is publicly available.
 
